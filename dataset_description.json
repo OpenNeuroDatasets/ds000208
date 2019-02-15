@@ -1,1 +1,13 @@
-{"Name":"ds000208_R1.0.0","BIDSVersion":"1.0.0 ","License":"PDDL","Authors":["Tetreault P, Mansour A, Vachon-Presseau E, Schnitzer TJ, Apkarian AV, Baliki MN"],"Acknowledgements":"We thank the staff and faculty of Center of Translational Imaging at Northwestern University and students and staff of Apkarian Lab and all study participants. ","HowToAcknowledge":" ","Funding":"Eli Lilly Pharmaceuticals funded study 2 (IIT number: F1J-US-XO61). This research was partially also supported by grants from National Institute of Neurological Disorders and Stroke (NS035115), and National Center for Complementary and Integrative Health (AT007987) of U.S. National Institutes of Health. P.T. and E.V.-P. were supported by the Canadian Institutes of Health Research."}
+{
+    "Name": "ds000208_R1.0.0",
+    "License": "PDDL",
+    "Authors": [
+        "Tetreault P"
+    ],
+    "Acknowledgements": "We thank the staff and faculty of Center of Translational Imaging at Northwestern University and students and staff of Apkarian Lab and all study participants. ",
+    "HowToAcknowledge": " ",
+    "Funding": "Eli Lilly Pharmaceuticals funded study 2 (IIT number: F1J-US-XO61). This research was partially also supported by grants from National Institute of Neurological Disorders and Stroke (NS035115), and National Center for Complementary and Integrative Health (AT007987) of U.S. National Institutes of Health. P.T. and E.V.-P. were supported by the Canadian Institutes of Health Research.",
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "",
+    "BIDSVersion": "1.0.0 "
+}
